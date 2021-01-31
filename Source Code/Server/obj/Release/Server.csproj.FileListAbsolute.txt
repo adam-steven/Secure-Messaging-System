@@ -1,0 +1,14 @@
+C:\Users\adams\Desktop\Doge Financial\Server\bin\Release\Server.exe.config
+C:\Users\adams\Desktop\Doge Financial\Server\bin\Release\Server.exe
+C:\Users\adams\Desktop\Doge Financial\Server\bin\Release\Server.pdb
+C:\Users\adams\Desktop\Doge Financial\Server\bin\Release\Google.Protobuf.xml
+C:\Users\adams\Desktop\Doge Financial\Server\bin\Release\MySql.Data.xml
+C:\Users\adams\Desktop\Doge Financial\Server\bin\Release\Renci.SshNet.xml
+C:\Users\adams\Desktop\Doge Financial\Server\obj\Release\Server.csprojAssemblyReference.cache
+C:\Users\adams\Desktop\Doge Financial\Server\obj\Release\Server.Form1.resources
+C:\Users\adams\Desktop\Doge Financial\Server\obj\Release\Server.Properties.Resources.resources
+C:\Users\adams\Desktop\Doge Financial\Server\obj\Release\Server.csproj.GenerateResource.cache
+C:\Users\adams\Desktop\Doge Financial\Server\obj\Release\Server.csproj.Fody.CopyLocal.cache
+C:\Users\adams\Desktop\Doge Financial\Server\obj\Release\Server.csproj.CopyComplete
+C:\Users\adams\Desktop\Doge Financial\Server\obj\Release\Server.exe
+C:\Users\adams\Desktop\Doge Financial\Server\obj\Release\Server.pdb

@@ -1,0 +1,13 @@
+C:\Users\adams\Desktop\Doge Financial\Doge Financial\bin\Release\Doge Financial.exe.config
+C:\Users\adams\Desktop\Doge Financial\Doge Financial\bin\Release\Doge Financial.exe
+C:\Users\adams\Desktop\Doge Financial\Doge Financial\bin\Release\Doge Financial.pdb
+C:\Users\adams\Desktop\Doge Financial\Doge Financial\bin\Release\Google.Protobuf.xml
+C:\Users\adams\Desktop\Doge Financial\Doge Financial\bin\Release\MySql.Data.xml
+C:\Users\adams\Desktop\Doge Financial\Doge Financial\bin\Release\Renci.SshNet.xml
+C:\Users\adams\Desktop\Doge Financial\Doge Financial\obj\Release\Doge_Financial.Form1.resources
+C:\Users\adams\Desktop\Doge Financial\Doge Financial\obj\Release\Doge_Financial.Properties.Resources.resources
+C:\Users\adams\Desktop\Doge Financial\Doge Financial\obj\Release\Doge Financial.csproj.GenerateResource.cache
+C:\Users\adams\Desktop\Doge Financial\Doge Financial\obj\Release\Doge Financial.csproj.Fody.CopyLocal.cache
+C:\Users\adams\Desktop\Doge Financial\Doge Financial\obj\Release\Doge Financial.csproj.CopyComplete
+C:\Users\adams\Desktop\Doge Financial\Doge Financial\obj\Release\Doge Financial.exe
+C:\Users\adams\Desktop\Doge Financial\Doge Financial\obj\Release\Doge Financial.pdb
